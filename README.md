@@ -8,7 +8,7 @@ Simulation for turtlebot exploring and mapping.
 
 ## Introduction
 
-This repository is a simulation for exploring and mapping unknown environment using turtlebot. This project is tested with **Ubuntu 18.04 LTS** and **ROS Melodic**.  Codes are developed in **Python2.7**.
+This repository is a simulation for exploring and mapping unknown environment using turtlebot. This project is tested with **Ubuntu 18.04 LTS** and **ROS Melodic**.  Codes are developed in **Python 2.7**.
 
 ## Running
 
