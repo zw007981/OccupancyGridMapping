@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<robot name="mrobot" xmlns:xacro="http://www.ros.org/wiki/xacro">
+	<include filename="$(find simulation)/urdf/body.urdf.xacro" />
+	<!-- Body of mrobot, with plates, standoffs -->
+	<mrobot_body />
+</robot>
