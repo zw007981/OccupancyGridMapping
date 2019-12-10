@@ -24,4 +24,10 @@ In a new terminal, run `rosrun simulation test.py`.
 
 4. Save the map.
 
-The map generated will be saved in the folder "images" as "map.png" automatically,  but you can still save the map in rviz by running `rosrun map_server map_saver`.
+The map generated will be saved in the folder "images" as "map.png" automatically, one of the maps generated is shown below:
+
+<img src="https://github.com/zw007981/simulation/blob/master/images/map.png" width="450">
+
+but you can still save the map in rviz by running `rosrun map_server map_saver`, as shown in the figure below:
+
+<img src="https://https://github.com/zw007981/simulation/blob/master/images/map_rviz.png" width="450">
