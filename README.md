@@ -30,4 +30,4 @@ The map generated will be saved in the folder "images" as "map.png" automaticall
 
 but you can still save the map in rviz by running `rosrun map_server map_saver`, as shown in the figure below:
 
-<img src="https://https://github.com/zw007981/simulation/blob/master/images/map_rviz.png" width="450">
+<img src="https://https://github.com/zw007981/simulation/blob/master/images/1.jpg" width="450">
