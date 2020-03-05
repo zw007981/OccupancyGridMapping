@@ -1,4 +1,4 @@
-# simulation
+# OccupancyGridMapping
 Simulation for turtlebot exploring and mapping.
 
 
