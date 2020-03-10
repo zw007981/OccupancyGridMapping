@@ -16,7 +16,9 @@ This repository is a simulation for exploring and mapping unknown environment us
 
 2. Open a new world in Gazebo and start rviz.
 
-`roslaunch simulation test.launch`.
+```
+roslaunch simulation test.launch
+```
 
 3. Start exploring.
 
