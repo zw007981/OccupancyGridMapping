@@ -17,12 +17,12 @@ This repository is a simulation for exploring and mapping unknown environment us
 2. Open a new world in Gazebo and start rviz.
 
 ```
-roslaunch simulation test.launch
+roslaunch OccupancyGridMapping test.launch
 ```
 
 3. Start exploring.
 
-In a new terminal, run `rosrun simulation test.py`.
+In a new terminal, run `rosrun OccupancyGridMapping test.py`.
 
 4. Save the map.
 
